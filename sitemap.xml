@@ -108,7 +108,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/notepad/</loc>
+    <loc>http://example.com/tags/java/</loc>
     <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -117,7 +117,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/notepad/</loc>
+    <loc>http://example.com/categories/java/</loc>
     <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
