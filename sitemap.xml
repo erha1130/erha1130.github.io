@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://erha1130.github.io/project/Movie/index.html</loc>
+    <loc>http://example.com/Movie/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/movies/index.html</loc>
+    <loc>http://example.com/movies/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/shuoshuo/index.html</loc>
+    <loc>http://example.com/shuoshuo/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/photos/index.html</loc>
+    <loc>http://example.com/photos/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/comment/index.html</loc>
+    <loc>http://example.com/comment/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/Music/index-1.html</loc>
+    <loc>http://example.com/Music/index-1.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/About/index.html</loc>
+    <loc>http://example.com/About/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/2022/09/12/d458dc3fcaef/</loc>
+    <loc>http://example.com/2022/09/12/d458dc3fcaef/</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/2022/09/11/11ae825ec46f/</loc>
+    <loc>http://example.com/2022/09/11/11ae825ec46f/</loc>
     
     <lastmod>2022-09-11</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/2022/09/11/d5cc78fd247d/</loc>
+    <loc>http://example.com/2022/09/11/d5cc78fd247d/</loc>
     
     <lastmod>2022-09-11</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/categories/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2022-09-11</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/Link/index.html</loc>
+    <loc>http://example.com/Link/index.html</loc>
     
     <lastmod>2022-09-11</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/Music/index.html</loc>
+    <loc>http://example.com/Music/index.html</loc>
     
     <lastmod>2022-09-11</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/tags/index.html</loc>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2022-09-11</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/manifest.json</loc>
+    <loc>http://example.com/manifest.json</loc>
     
     <lastmod>2022-09-10</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/2022/09/08/61e52643dc3b/</loc>
+    <loc>http://example.com/2022/09/08/61e52643dc3b/</loc>
     
     <lastmod>2022-09-08</lastmod>
     
@@ -147,7 +147,7 @@
   
 
   <url>
-    <loc>https://erha1130.github.io/project</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2022-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -155,21 +155,21 @@
 
   
   <url>
-    <loc>https://erha1130.github.io/project/tags/test/</loc>
+    <loc>http://example.com/tags/test/</loc>
     <lastmod>2022-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/tags/MySQL/</loc>
+    <loc>http://example.com/tags/MySQL/</loc>
     <lastmod>2022-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/tags/java/</loc>
+    <loc>http://example.com/tags/java/</loc>
     <lastmod>2022-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -178,14 +178,14 @@
 
   
   <url>
-    <loc>https://erha1130.github.io/project/categories/MySQL/</loc>
+    <loc>http://example.com/categories/MySQL/</loc>
     <lastmod>2022-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/project/categories/java/</loc>
+    <loc>http://example.com/categories/java/</loc>
     <lastmod>2022-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
