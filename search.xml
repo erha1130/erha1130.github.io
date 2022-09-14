@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>MySQL的编码设置</title>
+      <link href="/2022/09/14/cc9650beda3b/"/>
+      <url>/2022/09/14/cc9650beda3b/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="MySQL5-7中"><a href="#MySQL5-7中" class="headerlink" title="MySQL5.7中"></a>MySQL5.7中</h2><h3 id="问题再现：命令行操作sql乱码问题"><a href="#问题再现：命令行操作sql乱码问题" class="headerlink" title="问题再现：命令行操作sql乱码问题"></a>问题再现：命令行操作sql乱码问题</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mysql&gt; INSERT INTO t_stu VALUES(1,&#x27;张三&#x27;,&#x27;男&#x27;);</span><br><span class="line">ERROR 1366 (HY000): Incorrect string value: &#x27;\xD5\xC5\xC8\xFD&#x27; for column &#x27;sname&#x27; at</span><br><span class="line">row 1</span><br></pre></td></tr></table></figure><h3 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h3><p>步骤1：查看编码命令</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">show variables like &#x27;character_%&#x27;;</span><br><span class="line">show variables like &#x27;collation_%&#x27;;</span><br></pre></td></tr></table></figure><p>步骤2：修改mysql的数据目录下的my.ini配置文件</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[mysql] #大概在63行左右，在其下添加</span><br><span class="line">...</span><br><span class="line">default-character-set=utf8 #默认字符集</span><br><span class="line">[mysqld] # 大概在76行左右，在其下添加</span><br><span class="line">...</span><br><span class="line">character-set-server=utf8</span><br><span class="line">collation-server=utf8_general_ci</span><br></pre></td></tr></table></figure><p>步骤3：重启服务</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 启动 MySQL 服务命令：</span><br><span class="line">net start MySQL服务名</span><br><span class="line"># 停止 MySQL 服务命令：</span><br><span class="line">net stop MySQL服务名</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">d:\kss_blog&gt;net start mysql57</span><br><span class="line">发生系统错误 5。</span><br><span class="line"></span><br><span class="line">拒绝访问。</span><br></pre></td></tr></table></figure><p>原因：不是以管理员身份打开终端<br>步骤4：查看编码命令</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mysql&gt; show variables like &#x27;character_%&#x27;</span><br><span class="line">    -&gt; ;</span><br><span class="line">+--------------------------+-----------------------------+</span><br><span class="line">| Variable_name            | Value                       |</span><br><span class="line">+--------------------------+-----------------------------+</span><br><span class="line">| character_set_client     | gbk                         |</span><br><span class="line">| character_set_connection | gbk                         |</span><br><span class="line">| character_set_database   | utf8                        |</span><br><span class="line">| character_set_filesystem | binary                      |</span><br><span class="line">| character_set_results    | gbk                         |</span><br><span class="line">| character_set_server     | utf8                        |</span><br><span class="line">| character_set_system     | utf8                        |</span><br><span class="line">| character_sets_dir       | D:\MySQL5.7\share\charsets\ |</span><br><span class="line">+--------------------------+-----------------------------+</span><br><span class="line">8 rows in set, 1 warning (0.00 sec)</span><br><span class="line"></span><br><span class="line">mysql&gt; show variables like &#x27;collation_%&#x27;;</span><br><span class="line">+----------------------+-----------------+</span><br><span class="line">| Variable_name        | Value           |</span><br><span class="line">+----------------------+-----------------+</span><br><span class="line">| collation_connection | gbk_chinese_ci  |</span><br><span class="line">| collation_database   | utf8_general_ci |</span><br><span class="line">| collation_server     | utf8_general_ci |</span><br><span class="line">+----------------------+-----------------+</span><br><span class="line">3 rows in set, 1 warning (0.00 sec)</span><br></pre></td></tr></table></figure><h2 id="MySQL8-0中"><a href="#MySQL8-0中" class="headerlink" title="MySQL8.0中"></a>MySQL8.0中</h2><p>在MySQL 8.0版本之前，默认字符集为latin1，utf8字符集指向的是utf8mb3。网站开发人员在数据库设计<br>的时候往往会将编码修改为utf8字符集。如果遗忘修改默认的编码，就会出现乱码的问题。从MySQL 8.0<br>开始，数据库的默认编码改为 utf8mb4 ，从而避免了上述的乱码问题。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> MySQL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图形化数据库使用</title>
+      <link href="/2022/09/14/f348a697f201/"/>
+      <url>/2022/09/14/f348a697f201/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Navicat使用"><a href="#Navicat使用" class="headerlink" title="Navicat使用"></a>Navicat使用</h2><p>1.下载</p><p><a href="https://navicat.com.cn/download/navicat-for-mysql">navicat下载链接</a><br><img src="https://s2.loli.net/2022/09/14/MyR1ecQPuJoxNrw.png"><br>2.安装</p><p>3.连接数据库<br><img src="https://s2.loli.net/2022/09/14/cKFiaNs6yGLV8pD.png"></p><p>4.创建查询<br><img src="https://s2.loli.net/2022/09/14/RIEQDJ1YG6AjmSV.png"></p><h2 id="MySQL-workbench"><a href="#MySQL-workbench" class="headerlink" title="MySQL workbench"></a>MySQL workbench</h2><p>MySQL Workbench分为社区版和商业版，社区版完全免费，而商业版则是按年收费。<br>下载地址：<a href="http://dev.mysql.com/downloads/workbench/%E3%80%82">http://dev.mysql.com/downloads/workbench/。</a></p><h2 id="SQLyog"><a href="#SQLyog" class="headerlink" title="SQLyog"></a>SQLyog</h2><p>下载地<br>址：<a href="http://www.webyog.com/">http://www.webyog.com/</a><br><img src="https://s2.loli.net/2022/09/14/mJoFY7aziBcSdH4.png"></p><h2 id="dbeaver"><a href="#dbeaver" class="headerlink" title="dbeaver"></a>dbeaver</h2><p>DBeaver 是用Java编程语言开发的，所以需要拥有 JDK（Java Development ToolKit）环<br>境。如果电脑上没有JDK，在选择安装DBeaver组件时，勾选“Include Java”即可。</p><p>下载地址：<a href="https://dbeaver.io/download/">https://dbeaver.io/download/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> MySQL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>mysql使用</title>
       <link href="/2022/09/12/d458dc3fcaef/"/>
       <url>/2022/09/12/d458dc3fcaef/</url>
