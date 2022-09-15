@@ -191,14 +191,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/MySQL/</loc>
+    <loc>http://example.com/tags/test/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
+    <loc>http://example.com/tags/MySQL/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
