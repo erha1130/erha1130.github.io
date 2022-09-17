@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>Linux文件与目录结构</title>
+      <link href="/2022/09/17/7e01a3dce647/"/>
+      <url>/2022/09/17/7e01a3dce647/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>快捷键:</p><ul><li>Ctrl+Alt+F2 进入shell界面</li><li>Ctrl+Alt+F1 退出shell界面</li><li>Ctrl+Alt+F3 进入另一用户登录界面</li><li>Ctrl+Alt 呼唤鼠标</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux安装</title>
+      <link href="/2022/09/17/54da05de35b9/"/>
+      <url>/2022/09/17/54da05de35b9/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="操作系统下载"><a href="#操作系统下载" class="headerlink" title="操作系统下载"></a>操作系统下载</h2><p><a href="http://isoredirect.centos.org/centos/7/isos/x86_64/">centos下载地址</a><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/Linux3.png"></p><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/Linux2.png"></p><h2 id="虚拟平台下载安装"><a href="#虚拟平台下载安装" class="headerlink" title="虚拟平台下载安装"></a>虚拟平台下载安装</h2><p><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">vmware下载地址</a><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux4.png"><br>许可证自行百度<br>安装：下一步</p><h2 id="安装虚拟机"><a href="#安装虚拟机" class="headerlink" title="安装虚拟机"></a>安装虚拟机</h2><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux6.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux7.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux5.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/Linux8.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux9.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/Linux10.png"><br>接下来按推荐安装</p><h3 id="安装centos"><a href="#安装centos" class="headerlink" title="安装centos"></a>安装centos</h3><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux11.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux12.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux13.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux14.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux15.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux16.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux18.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux17.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux19.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux20.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux21.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux22.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux23.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux24.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux25.png"><br>快捷键:</p><ul><li>Ctrl+Alt+F2 进入shell界面</li><li>Ctrl+Alt+F1 退出shell界面</li><li>Ctrl+Alt+F3 进入另一用户登录界面</li><li>Ctrl+Alt 呼唤鼠标</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux概述</title>
+      <link href="/2022/09/17/9687456c03da/"/>
+      <url>/2022/09/17/9687456c03da/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="linux是一个操作系统-operating-system-OS"><a href="#linux是一个操作系统-operating-system-OS" class="headerlink" title="linux是一个操作系统(operating system)(OS)"></a>linux是一个操作系统(operating system)(OS)</h3><p>三大操作系统：Windows Linux macOS</p><h3 id="GNU-x2F-Linux"><a href="#GNU-x2F-Linux" class="headerlink" title="GNU&#x2F;Linux"></a>GNU&#x2F;Linux</h3><p>GNU(GNU is not Unix)<br>GPL是一个广泛被使用的自由软件许可协议条款，最初由理查德·斯托曼(Richard Matthrew Stallman)为GNU计划而撰写。<br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux.png"></p><h3 id="Linux的发行版"><a href="#Linux的发行版" class="headerlink" title="Linux的发行版"></a>Linux的发行版</h3><p>1.RedHat 性能强悍 </p><ul><li>RedHat Enterprise Linux</li><li>fedora</li><li>CentOS(性能稳定)</li></ul><p>2.debian </p><ul><li>ubuntu(有漂亮的桌面)<ul><li>Linux Mint</li></ul></li><li>SUSE  <ul><li>openSUSE(有华丽的桌面)</li></ul></li></ul><p>3.gentoo Linux<br>4.archLinux</p><ul><li>manjaro</li></ul><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux1.png"></p><h3 id="Linux-vs-Windows"><a href="#Linux-vs-Windows" class="headerlink" title="Linux vs Windows"></a>Linux vs Windows</h3><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/2022-09-17%2015%2022%2013.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>枚举</title>
       <link href="/2022/09/15/6d04d56e1f7e/"/>
       <url>/2022/09/15/6d04d56e1f7e/</url>
@@ -14,25 +89,6 @@
       <categories>
           
           <category> java </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2022/09/14/fa803d20da96/"/>
-      <url>/2022/09/14/fa803d20da96/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>this is a page of test😂😂😂<br>this is a page of test</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> test </category>
           
       </categories>
       
