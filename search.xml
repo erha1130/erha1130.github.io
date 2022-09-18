@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>vi/vim文本编辑器</title>
+      <link href="/2022/09/18/b0e02a3ddcd4/"/>
+      <url>/2022/09/18/b0e02a3ddcd4/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>vi是Unix操作系统和类Unix操作系统中最通用的文本编辑器。<br>vim编辑器是从vi发展出来的一个性能更强大的文本编辑器。可以主动的以字体颜色辨别语法的正确性，方便程序设计。vim与vi编辑器完全兼容。<br>添加中文拼音输入法<br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux31.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux32.png">  </p><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux33.png"><br>快捷键:</p><ul><li>Tab 补全</li><li>super+空格 切换输入法</li></ul><p>模式转换<br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux34.png">  </p><ul><li>一般模式<ul><li>yy 复制光标当前行</li><li>8yy 复制从光标所在行往下数8行</li><li>y$ 复制 从光标位置开始到当前行结束</li><li>y^ 复制 从光标位置开始到当前行顶部</li><li>yw 复制 当前单词</li><li>w 跳到下一个单词的词头</li><li>e 跳到下一个单词的词尾</li><li>b 跳到上一个单词的词头</li><li>p 粘贴</li><li>dd 删除当前行</li><li>8dd 删除8行</li><li>d$ 删除 从光标位置开始到当前行尾</li><li>d^ 删除 从光标位置开始到当前行头</li><li>dw 删除当前单词 光标要在单词最前边</li><li>u 撤销</li><li>x 剪切</li><li>shift+x 删除 光标之前的字符</li><li>r 替换光标所在字符</li><li>shift+r 替换光标之后的所有字符</li><li>shift+$ 移动到行尾</li><li>shift+^ 移动到行头</li><li>shift+h 移动到文本开头</li><li>shift+g 移动到文本末尾的行头</li><li>3+shift+g 移动到第三行行头</li></ul></li><li>编辑模式(插入模式)  <ul><li>i 进入编辑模式 光标位置不变</li><li>a 进入编辑模式 光标向后移动一个字符</li><li>o 进入编辑模式 光标移动到下一行行头</li><li>shift+i 进入编辑模式 光标跳转到行头</li><li>shift+a 进入编辑模式 光标跳转到行尾</li><li>shift+o 进入编辑模式 光标移动到上一行行头</li></ul></li><li>命令模式<ul><li>:set nu 显示出行号</li><li>:set nonu 隐藏行号</li><li>:w 保存</li><li>:q 退出</li><li>:wq 保存并退出</li><li>:q! 不保存强制退出</li><li>&#x2F; 查找  <ul><li>n 跳转下一个查找的单词</li><li>shift+n 跳转上一个查找的单词</li><li>:noh 取消高亮显示</li><li>:s&#x2F;old&#x2F;new 替换当前行匹配到的第一个old为new</li><li>:s&#x2F;old&#x2F;new&#x2F;g 替换当前行匹配到的所有old为new</li><li>:%s&#x2F;old&#x2F;new 替换文档中每一行匹配到的第一个old为new</li><li>:%s&#x2F;old&#x2F;new&#x2F;g 替换文档张所有old为new</li></ul></li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Linux文件与目录结构</title>
       <link href="/2022/09/17/7e01a3dce647/"/>
       <url>/2022/09/17/7e01a3dce647/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>快捷键:</p><ul><li>Ctrl+Alt+F2 进入shell界面</li><li>Ctrl+Alt+F1 退出shell界面</li><li>Ctrl+Alt+F3 进入另一用户登录界面</li><li>Ctrl+Alt 呼唤鼠标</li></ul>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>快捷键:</p><ul><li>Ctrl+Alt+F2 进入shell界面</li><li>Ctrl+Alt+F1 退出shell界面</li><li>Ctrl+Alt+F3 进入另一用户登录界面</li><li>Ctrl+Alt 呼唤鼠标</li></ul><p>进入此电脑<br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux26.png"></p><h2 id="linux文件"><a href="#linux文件" class="headerlink" title="linux文件"></a>linux文件</h2><p>Linux系统中一切皆文件</p><h2 id="linux目录结构"><a href="#linux目录结构" class="headerlink" title="linux目录结构"></a>linux目录结构</h2><p><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux27.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux28.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux29.png"><br><img src="/../../themes/butterfly/source/img/%E6%88%AA%E5%9B%BE/linux30.png"></p><ul><li>&#x2F;bin 二进制文件夹存放可以直接执行的命令</li><li>&#x2F;sbin(system bin) 存放系统管理员用的命令</li><li>&#x2F;lib(library)库目录 存放动态链接</li><li>&#x2F;usr(user) 用户目录</li><li>&#x2F;boot 启动目录 相当于BIOS</li><li>&#x2F;dev(device) 存放硬件的目录</li><li>&#x2F;etc(etcetera)等等 系统配置目录存放所有系统管理所需要的配置文件和子目录</li><li>&#x2F;home 存放普通用户的主文件夹</li><li>&#x2F;root root用户目录</li><li>&#x2F;opt(option) 存放第三方软件</li><li>&#x2F;media 可移动存储设备的挂载点</li><li>&#x2F;mnt 可移动存储设备的另一个挂载点</li><li>&#x2F;proc(process)进程目录 存放进程的信息</li><li>&#x2F;run 运行目录 存放当前系统运行以来的实时信息</li><li>&#x2F;srv(service) 存放系统服务相关的信息</li><li>&#x2F;sys(system) 存放系统硬件信息的相关文件</li><li>&#x2F;tmp(temp) 临时存放目录</li><li>&#x2F;var(variable)变量 存放不断会变化的文件</li></ul>]]></content>
       
       
       <categories>
