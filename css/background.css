@@ -1,6 +1,6 @@
 #web_bg {
     /* 背景图像的地址（url括号里）  */
-    background: url(https://s2.loli.net/2022/09/18/bSHhIPQpdYcuogU.png);
+    background: url(https://s2.loli.net/2022/10/07/x5dUjoGhqgO1HBC.jpg);
     /* 背景图像不重复 */
     background-repeat: no-repeat;
     /* 背景图像大小 */
@@ -10,7 +10,7 @@
   /* 文章页背景 */
 .layout > div:first-child:not(.recent-posts) {
     /* 以下代表白色透明度为0.3 */
-    background: rgba(84, 124, 255, 0.5);
+    background: rgba(84, 124, 255, 1);
   }
   /* 所有背景（包括首页卡片、文章页、页面页等） */
   #recent-posts > .recent-post-item,
@@ -19,5 +19,5 @@
   .layout_post > #post,
   .read-mode .layout_post > #post {
     /* 以下代表白色透明度为0.3 */
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 1);
   }
