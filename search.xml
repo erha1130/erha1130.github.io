@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>关于破解Typora笔记软件总是被Windows安全中心删除破解文件</title>
+      <link href="/2022/10/16/cd5c97655687/"/>
+      <url>/2022/10/16/cd5c97655687/</url>
+      
+        <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p><strong>最近找了破解Typora笔记软件的教程，使用几天后就无法打开软件，我使用管理员权限打开后发现恢复正版了。</strong></p><h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p><strong>原因是Typora文件夹里的破解文件winmm.dll被Windows安全中心删除</strong></p><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li>将下载好的winmm.dll复制到Typora文件下</li><li>进入Windows安全中心—&gt;病毒和威胁防护—&gt;”病毒和威胁防护”设置 下的 管理设置—&gt;排除项 下的 添加或删除排除项—&gt;把Typora文件夹添加进排除项</li><li>重启Typora</li></ol><blockquote><p>注意：以上操作都是基于Windows10</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> errors </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> errors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>errors-报错Bad owner or permissions on C:\Users\Administrator/.ssh/config</title>
       <link href="/2022/10/12/f0ab892a2b13/"/>
       <url>/2022/10/12/f0ab892a2b13/</url>
