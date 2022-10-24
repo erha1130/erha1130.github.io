@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>关于[MySQL]-Job for mysqld.service failed because the control process exited with error code.</title>
+      <link href="/2022/10/21/9a7dc0944fb2/"/>
+      <url>/2022/10/21/9a7dc0944fb2/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142^v59^opensearch_v2,201^v3^control_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187</a></p><p><a href="https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142^v59^opensearch_v2,201^v3^control_2&amp;spm=1018.2226.3001.4187</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> errors </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> errors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>运算符</title>
       <link href="/2022/10/16/c39fbdadc4f5/"/>
       <url>/2022/10/16/c39fbdadc4f5/</url>

@@ -6,7 +6,7 @@
   <link href="https://erha1130.github.io/atom.xml" rel="self"/>
   
   <link href="https://erha1130.github.io/"/>
-  <updated>2022-10-16T13:33:46.085Z</updated>
+  <updated>2022-10-24T15:35:28.689Z</updated>
   <id>https://erha1130.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于[MySQL]-Job for mysqld.service failed because the control process exited with error code.</title>
+    <link href="https://erha1130.github.io/2022/10/21/9a7dc0944fb2/"/>
+    <id>https://erha1130.github.io/2022/10/21/9a7dc0944fb2/</id>
+    <published>2022-10-21T09:17:24.000Z</published>
+    <updated>2022-10-24T15:35:28.689Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142^v59^opensearch_v2,201^v3^control_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187</a></p><p><a href="https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142^v59^opensearch_v2,201^v3^control_2&amp;spm=1018.2226.3001.4187</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916</summary>
+      
+    
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/categories/errors/"/>
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/tags/errors/"/>
+    
+  </entry>
   
   <entry>
     <title>运算符</title>
@@ -485,30 +509,6 @@
     
     <category term="java" scheme="https://erha1130.github.io/categories/java/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL的编码设置</title>
-    <link href="https://erha1130.github.io/2022/09/14/c2ffcb079264/"/>
-    <id>https://erha1130.github.io/2022/09/14/c2ffcb079264/</id>
-    <published>2022-09-14T08:36:21.000Z</published>
-    <updated>2022-09-14T09:27:33.257Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="MySQL5-7中"><a href="#MySQL5-7中" class="headerlink" title="MySQL5.7中"></a>MySQL5.7中</h2><h3 id="问题再现：命令行操作sql乱码问题"><a href="#问题再现：命令行操作sql乱码问题" class="headerlink" title="问题再现：命令行操作sql乱码问题"></a>问题再现：命令行操作sql乱码问题</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mysql&gt; INSERT INTO t_stu VALUES(1,&#x27;张三&#x27;,&#x27;男&#x27;);</span><br><span class="line">ERROR 1366 (HY000): Incorrect string value: &#x27;\xD5\xC5\xC8\xFD&#x27; for column &#x27;sname&#x27; at</span><br><span class="line">row 1</span><br></pre></td></tr></table></figure><h3 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h3><p>步骤1：查看编码命令</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">show variables like &#x27;character_%&#x27;;</span><br><span class="line">show variables like &#x27;collation_%&#x27;;</span><br></pre></td></tr></table></figure><p>步骤2：修改mysql的数据目录下的my.ini配置文件</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[mysql] #大概在63行左右，在其下添加</span><br><span class="line">...</span><br><span class="line">default-character-set=utf8 #默认字符集</span><br><span class="line">[mysqld] # 大概在76行左右，在其下添加</span><br><span class="line">...</span><br><span class="line">character-set-server=utf8</span><br><span class="line">collation-server=utf8_general_ci</span><br></pre></td></tr></table></figure><p>步骤3：重启服务</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 启动 MySQL 服务命令：</span><br><span class="line">net start MySQL服务名</span><br><span class="line"># 停止 MySQL 服务命令：</span><br><span class="line">net stop MySQL服务名</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">d:\kss_blog&gt;net start mysql57</span><br><span class="line">发生系统错误 5。</span><br><span class="line"></span><br><span class="line">拒绝访问。</span><br></pre></td></tr></table></figure><p>原因：不是以管理员身份打开终端<br>步骤4：查看编码命令</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">mysql&gt; show variables like &#x27;character_%&#x27;</span><br><span class="line">    -&gt; ;</span><br><span class="line">+--------------------------+-----------------------------+</span><br><span class="line">| Variable_name            | Value                       |</span><br><span class="line">+--------------------------+-----------------------------+</span><br><span class="line">| character_set_client     | gbk                         |</span><br><span class="line">| character_set_connection | gbk                         |</span><br><span class="line">| character_set_database   | utf8                        |</span><br><span class="line">| character_set_filesystem | binary                      |</span><br><span class="line">| character_set_results    | gbk                         |</span><br><span class="line">| character_set_server     | utf8                        |</span><br><span class="line">| character_set_system     | utf8                        |</span><br><span class="line">| character_sets_dir       | D:\MySQL5.7\share\charsets\ |</span><br><span class="line">+--------------------------+-----------------------------+</span><br><span class="line">8 rows in set, 1 warning (0.00 sec)</span><br><span class="line"></span><br><span class="line">mysql&gt; show variables like &#x27;collation_%&#x27;;</span><br><span class="line">+----------------------+-----------------+</span><br><span class="line">| Variable_name        | Value           |</span><br><span class="line">+----------------------+-----------------+</span><br><span class="line">| collation_connection | gbk_chinese_ci  |</span><br><span class="line">| collation_database   | utf8_general_ci |</span><br><span class="line">| collation_server     | utf8_general_ci |</span><br><span class="line">+----------------------+-----------------+</span><br><span class="line">3 rows in set, 1 warning (0.00 sec)</span><br></pre></td></tr></table></figure><h2 id="MySQL8-0中"><a href="#MySQL8-0中" class="headerlink" title="MySQL8.0中"></a>MySQL8.0中</h2><p>在MySQL 8.0版本之前，默认字符集为latin1，utf8字符集指向的是utf8mb3。网站开发人员在数据库设计<br>的时候往往会将编码修改为utf8字符集。如果遗忘修改默认的编码，就会出现乱码的问题。从MySQL 8.0<br>开始，数据库的默认编码改为 utf8mb4 ，从而避免了上述的乱码问题。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;MySQL5-7中&quot;&gt;&lt;a href=&quot;#MySQL5-7中&quot; class=&quot;headerlink&quot; title=&quot;MySQL5.7中&quot;&gt;&lt;/a&gt;MySQL5.7中&lt;/h2&gt;&lt;h3 id=&quot;问题再现：命令行操作sql乱码问题&quot;&gt;&lt;a href=&quot;#问题再现：命令行</summary>
-      
-    
-    
-    
-    <category term="MySQL" scheme="https://erha1130.github.io/categories/MySQL/"/>
-    
-    
-    <category term="MySQL" scheme="https://erha1130.github.io/tags/MySQL/"/>
     
   </entry>
   
