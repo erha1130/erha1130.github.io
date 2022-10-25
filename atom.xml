@@ -6,7 +6,7 @@
   <link href="https://erha1130.github.io/atom.xml" rel="self"/>
   
   <link href="https://erha1130.github.io/"/>
-  <updated>2022-10-24T15:35:28.689Z</updated>
+  <updated>2022-10-25T07:56:22.375Z</updated>
   <id>https://erha1130.github.io/</id>
   
   <author>
@@ -17,18 +17,90 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于[MySQL]-Job for mysqld.service failed because the control process exited with error code.</title>
-    <link href="https://erha1130.github.io/2022/10/21/9a7dc0944fb2/"/>
-    <id>https://erha1130.github.io/2022/10/21/9a7dc0944fb2/</id>
+    <title>在ubuntu下安装MySQL</title>
+    <link href="https://erha1130.github.io/2022/10/25/aa7c11163ca4/"/>
+    <id>https://erha1130.github.io/2022/10/25/aa7c11163ca4/</id>
+    <published>2022-10-25T06:52:43.000Z</published>
+    <updated>2022-10-25T07:56:22.375Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="%5B(110%E6%9D%A1%E6%B6%88%E6%81%AF">csdn链接</a> Ubuntu如何安装Mysql_shallowdream218的博客-CSDN博客_ubuntu系统安装mysql](<a href="https://blog.csdn.net/weixin_44430893/article/details/119296615?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=%E4%B9%8C%E7%8F%AD%E5%9B%BE%E5%AE%89%E8%A3%85mysql&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-119296615.nonecase&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/weixin_44430893/article/details/119296615?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=乌班图安装mysql&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-119296615.nonecase&amp;spm=1018.2226.3001.4187</a>))</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;%5B(110%E6%9D%A1%E6%B6%88%E6%81%AF&quot;&gt;csdn链接&lt;/a&gt; Ubuntu如何安装Mysql_shallowdream218的博客-CSDN博客_ubuntu系统安装mysql](&lt;a href=&quot;https://blog.</summary>
+      
+    
+    
+    
+    <category term="course" scheme="https://erha1130.github.io/categories/course/"/>
+    
+    
+    <category term="course" scheme="https://erha1130.github.io/tags/course/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于ssh连接云服务器超时的解决</title>
+    <link href="https://erha1130.github.io/2022/10/25/62f5663436f7/"/>
+    <id>https://erha1130.github.io/2022/10/25/62f5663436f7/</id>
+    <published>2022-10-25T06:20:18.000Z</published>
+    <updated>2022-10-25T06:32:46.411Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">C:\Users\HP&gt;ssh root@erhass.asia</span><br><span class="line">ssh_dispatch_run_fatal: Connection to 8.210.148.95 port 22: Connection timed out</span><br></pre></td></tr></table></figure><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li><strong>重置系统密码</strong></li><li><strong>关闭内网ip的ssh连接</strong></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span cl</summary>
+      
+    
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/categories/errors/"/>
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/tags/errors/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于ssh连接云服务器超时的解决</title>
+    <link href="https://erha1130.github.io/2022/10/25/8dbdd136d417/"/>
+    <id>https://erha1130.github.io/2022/10/25/8dbdd136d417/</id>
+    <published>2022-10-25T06:20:18.000Z</published>
+    <updated>2022-10-25T07:31:39.671Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">C:\Users\HP&gt;ssh root@erhass.asia</span><br><span class="line">ssh_dispatch_run_fatal: Connection to 8.210.148.95 port 22: Connection timed out</span><br></pre></td></tr></table></figure><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li><strong>重置系统密码</strong></li><li><strong>关闭内网ip的ssh连接</strong></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span cl</summary>
+      
+    
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/categories/errors/"/>
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/tags/errors/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于在centos系统下开启MySQL服务时的报错解决</title>
+    <link href="https://erha1130.github.io/2022/10/21/457304120b1f/"/>
+    <id>https://erha1130.github.io/2022/10/21/457304120b1f/</id>
     <published>2022-10-21T09:17:24.000Z</published>
-    <updated>2022-10-24T15:35:28.689Z</updated>
+    <updated>2022-10-25T07:55:03.468Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142^v59^opensearch_v2,201^v3^control_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187</a></p><p><a href="https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142^v59^opensearch_v2,201^v3^control_2&amp;spm=1018.2226.3001.4187</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="报错"><a href="#报错" class="headerlink" title="报错"></a>报错</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">[root@iZj6c1drl65inbvxsn0vj5Z /]# systemctl start mysqld</span><br><span class="line">Job for mysqld.service failed because the control process exited with error code.</span><br><span class="line">See &quot;systemctl status mysqld.service&quot; and &quot;journalctl -xe&quot; for details.</span><br></pre></td></tr></table></figure><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li><strong>先去&#x2F;etc&#x2F;my.cnf文件中找到你的mysql目录</strong></li></ol><p><strong>发现没有配置文件，里面只有一个路径</strong></p><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> /]<span class="comment"># cat /etc/my.cnf</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># This group is read both both by the client and the server</span></span><br><span class="line"><span class="comment"># use it for options that affect everything</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line">[<span class="type">client</span>-<span class="type">server</span>]</span><br><span class="line"></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># include all files from the config directory</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line">!includedir /etc/my.cnf.d</span><br></pre></td></tr></table></figure><p>**其实配置文件就在这个路径下 **<br>2. <strong>转到这个路径下</strong></p><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">etc</span>]<span class="comment"># cd my.cnf.d</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">my.cnf.d</span>]<span class="comment"># ls</span></span><br><span class="line">client.cnf  mysql<span class="literal">-default-authentication-plugin</span>.cnf  mysql<span class="literal">-server</span>.cnf</span><br></pre></td></tr></table></figure><p>**发现有三个配置文件 **<br>3. <strong>打开mysql-server.cnf配置文件</strong></p><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">my.cnf.d</span>]<span class="comment"># cat mysql-server.cnf</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># This group are read by MySQL server.</span></span><br><span class="line"><span class="comment"># Use it for options that only the server (but not clients) should see</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For advice on how to change settings please see</span></span><br><span class="line"><span class="comment"># http://dev.mysql.com/doc/refman/en/server-configuration-defaults.html</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Settings user and group are ignored when systemd is used.</span></span><br><span class="line"><span class="comment"># If you need to run mysqld under a different user or group,</span></span><br><span class="line"><span class="comment"># customize your systemd unit file for mysqld according to the</span></span><br><span class="line"><span class="comment"># instructions in http://fedoraproject.org/wiki/Systemd</span></span><br><span class="line"></span><br><span class="line">[<span class="type">mysqld</span>]</span><br><span class="line">datadir=/var/lib/mysql  <span class="comment">#mysql的目录</span></span><br><span class="line">socket=/var/lib/mysql/mysql.sock</span><br><span class="line">log<span class="literal">-error</span>=/var/log/mysql/mysqld.log</span><br><span class="line">pid<span class="operator">-file</span>=/run/mysqld/mysqld.pid</span><br></pre></td></tr></table></figure><p><strong>在文件中找到mysql的目录</strong></p><ol start="4"><li><strong>进入&#x2F;var&#x2F;lib&#x2F;目录，给mysql整个777权限</strong>  <figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">my.cnf.d</span>]<span class="comment"># cd /var/lib/</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">lib</span>]<span class="comment"># chmod 777 mysql</span></span><br></pre></td></tr></table></figure></li><li><strong>删掉&#x2F;var&#x2F;lib&#x2F;mysql&#x2F;目录下所有内容</strong></li></ol><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">lib</span>]<span class="comment"># rm -rf /var/lib/mysql/*</span></span><br></pre></td></tr></table></figure><ol start="6"><li><strong>启动mysql</strong><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">lib</span>]<span class="comment"># systemctl status mysqld</span></span><br><span class="line">● mysqld.service - MySQL <span class="number">8.0</span> database server</span><br><span class="line">   Loaded: loaded (/usr/lib/systemd/system/mysqld.service; disabled; vendor preset: disabled)</span><br><span class="line">   Active: active (running) since Tue <span class="number">2022</span><span class="literal">-10-25</span> <span class="number">15</span>:<span class="number">22</span>:<span class="number">02</span> CST; <span class="number">14</span>s ago</span><br><span class="line">  <span class="keyword">Process</span>: <span class="number">63886</span> ExecStopPost=/usr/libexec/mysql<span class="literal">-wait-stop</span> (code=exited, status=<span class="number">0</span>/SUCCESS)</span><br><span class="line">  <span class="keyword">Process</span>: <span class="number">64082</span> ExecStartPost=/usr/libexec/mysql<span class="literal">-check-upgrade</span> (code=exited, status=<span class="number">0</span>/SUCCESS)</span><br><span class="line">  <span class="keyword">Process</span>: <span class="number">63957</span> ExecStartPre=/usr/libexec/mysql<span class="literal">-prepare-db-dir</span> mysqld.service (code=exited, status=<span class="number">0</span>/SU&gt;  <span class="keyword">Process</span>: <span class="number">63933</span> ExecStartPre=/usr/libexec/mysql<span class="literal">-check-socket</span> (code=exited, status=<span class="number">0</span>/SUCCESS)</span><br><span class="line"> Main PID: <span class="number">64038</span> (mysqld)</span><br><span class="line">   Status: <span class="string">&quot;Server is operational&quot;</span></span><br><span class="line">    Tasks: <span class="number">38</span> (limit: <span class="number">5036</span>)</span><br><span class="line">   Memory: <span class="number">405.1</span>M</span><br><span class="line">   CGroup: /system.slice/mysqld.service</span><br><span class="line">           └─<span class="number">64038</span> /usr/libexec/mysqld <span class="literal">--basedir</span>=/usr</span><br></pre></td></tr></table></figure></li></ol>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916</summary>
+    <summary type="html">&lt;h2 id=&quot;报错&quot;&gt;&lt;a href=&quot;#报错&quot; class=&quot;headerlink&quot; title=&quot;报错&quot;&gt;&lt;/a&gt;报错&lt;/h2&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span cl</summary>
       
     
     
@@ -439,76 +511,6 @@
     
     
     <category term="linux" scheme="https://erha1130.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>linux安装</title>
-    <link href="https://erha1130.github.io/2022/09/17/b2f25f3f883d/"/>
-    <id>https://erha1130.github.io/2022/09/17/b2f25f3f883d/</id>
-    <published>2022-09-17T08:05:14.000Z</published>
-    <updated>2022-09-18T09:53:45.613Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="操作系统下载"><a href="#操作系统下载" class="headerlink" title="操作系统下载"></a>操作系统下载</h2><p><a href="http://isoredirect.centos.org/centos/7/isos/x86_64/">centos下载地址</a><br><img src="https://s2.loli.net/2022/09/18/yNRijclSHdx6n4D.png"></p><p><img src="https://s2.loli.net/2022/09/18/5THyUg79qoLQhn8.png"></p><h2 id="虚拟平台下载安装"><a href="#虚拟平台下载安装" class="headerlink" title="虚拟平台下载安装"></a>虚拟平台下载安装</h2><p><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">vmware下载地址</a><br><img src="https://s2.loli.net/2022/09/18/bexFHA4Vjw3EIZd.png"><br>许可证自行百度<br>安装：下一步</p><h2 id="安装虚拟机"><a href="#安装虚拟机" class="headerlink" title="安装虚拟机"></a>安装虚拟机</h2><p><img src="https://s2.loli.net/2022/09/18/aJvO7tFznXcmT8q.png"><br><img src="https://s2.loli.net/2022/09/18/S7cNHfbyLX32zGa.png"><br><img src="https://s2.loli.net/2022/09/18/brdDO1JuBfilQo6.png"><br><img src="https://s2.loli.net/2022/09/18/o6pAByNTwULsMEn.png"><br><img src="https://s2.loli.net/2022/09/18/ea7uTWnhy8Bgb4k.png"><br><img src="https://s2.loli.net/2022/09/18/Es9Hd8PCb1WeYc5.png"><br>接下来按推荐安装</p><h3 id="安装centos"><a href="#安装centos" class="headerlink" title="安装centos"></a>安装centos</h3><p><img src="https://s2.loli.net/2022/09/18/MiD5AzkboQ4HKy7.png" alt="linux11.png"><br><img src="https://s2.loli.net/2022/09/18/jFtPbXceydg9VRp.png" alt="linux12.png"><br><img src="https://s2.loli.net/2022/09/18/6UKeHRTED9Nmugf.png" alt="linux13.png"><br><img src="https://s2.loli.net/2022/09/18/1AHPIej5KVt2Gph.png" alt="linux14.png"><br><img src="https://s2.loli.net/2022/09/18/pDuv5ZRTM39QqWA.png" alt="linux15.png"><br><img src="https://s2.loli.net/2022/09/18/hjgQ5MX3pKJYIno.png" alt="linux16.png"><br><img src="https://s2.loli.net/2022/09/18/QpdfgvCzuyRnHD2.png" alt="linux17.png"><br><img src="https://s2.loli.net/2022/09/18/9AJfMzFchBPH2Rb.png" alt="linux18.png"><br><img src="https://s2.loli.net/2022/09/18/F1OD5sUX9K72uHp.png" alt="linux19.png"><br><img src="https://s2.loli.net/2022/09/18/ET49bt8uDCON2US.png" alt="linux20.png"><br><img src="https://s2.loli.net/2022/09/18/oBEhImPFOx3cSqs.png" alt="linux21.png"><br><img src="https://s2.loli.net/2022/09/18/4vJV8DmdSh5uONH.png" alt="linux22.png"><br><img src="https://s2.loli.net/2022/09/18/qgXv5QeSOKsY6ji.png" alt="linux23.png"><br><img src="https://s2.loli.net/2022/09/18/rF8xoe2tpkCym34.png" alt="linux24.png"><br><img src="https://s2.loli.net/2022/09/18/PqETkHjmGe5pFhl.png" alt="linux25.png"><br>快捷键:</p><ul><li>Ctrl+Alt+F2 进入shell界面</li><li>Ctrl+Alt+F1 退出shell界面</li><li>Ctrl+Alt+F3 进入另一用户登录界面</li><li>Ctrl+Alt 呼唤鼠标</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;操作系统下载&quot;&gt;&lt;a href=&quot;#操作系统下载&quot; class=&quot;headerlink&quot; title=&quot;操作系统下载&quot;&gt;&lt;/a&gt;操作系统下载&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://isoredirect.centos.org/centos/7/isos/x</summary>
-      
-    
-    
-    
-    <category term="linux" scheme="https://erha1130.github.io/categories/linux/"/>
-    
-    
-    <category term="linux" scheme="https://erha1130.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>linux概述</title>
-    <link href="https://erha1130.github.io/2022/09/17/ead44191499b/"/>
-    <id>https://erha1130.github.io/2022/09/17/ead44191499b/</id>
-    <published>2022-09-17T05:54:51.000Z</published>
-    <updated>2022-09-18T09:37:40.109Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="linux是一个操作系统-operating-system-OS"><a href="#linux是一个操作系统-operating-system-OS" class="headerlink" title="linux是一个操作系统(operating system)(OS)"></a>linux是一个操作系统(operating system)(OS)</h3><p>三大操作系统：Windows Linux macOS</p><h3 id="GNU-x2F-Linux"><a href="#GNU-x2F-Linux" class="headerlink" title="GNU&#x2F;Linux"></a>GNU&#x2F;Linux</h3><p>GNU(GNU is not Unix)<br>GPL是一个广泛被使用的自由软件许可协议条款，最初由理查德·斯托曼(Richard Matthrew Stallman)为GNU计划而撰写。<br><img src="https://s2.loli.net/2022/09/18/JE8HM4SfdjYqpwQ.png"></p><h3 id="Linux的发行版"><a href="#Linux的发行版" class="headerlink" title="Linux的发行版"></a>Linux的发行版</h3><p>1.RedHat 性能强悍 </p><ul><li>RedHat Enterprise Linux</li><li>fedora</li><li>CentOS(性能稳定)</li></ul><p>2.debian </p><ul><li>ubuntu(有漂亮的桌面)<ul><li>Linux Mint</li></ul></li><li>SUSE  <ul><li>openSUSE(有华丽的桌面)</li></ul></li></ul><p>3.gentoo Linux<br>4.archLinux</p><ul><li>manjaro</li></ul><p><img src="https://s2.loli.net/2022/09/18/LzPrSgEBmhOvM4N.png"></p><h3 id="Linux-vs-Windows"><a href="#Linux-vs-Windows" class="headerlink" title="Linux vs Windows"></a>Linux vs Windows</h3><p><img src="https://s2.loli.net/2022/09/18/uiIxrl8tLmqfHpo.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;linux是一个操作系统-operating-system-OS&quot;&gt;&lt;a href=&quot;#linux是一个操作系统-operating-system-OS&quot; class=&quot;headerlink&quot; title=&quot;linux是一个操作系统(operating syste</summary>
-      
-    
-    
-    
-    <category term="linux" scheme="https://erha1130.github.io/categories/linux/"/>
-    
-    
-    <category term="linux" scheme="https://erha1130.github.io/tags/linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>枚举</title>
-    <link href="https://erha1130.github.io/2022/09/15/68647febf8b5/"/>
-    <id>https://erha1130.github.io/2022/09/15/68647febf8b5/</id>
-    <published>2022-09-15T02:36:39.000Z</published>
-    <updated>2022-09-28T12:45:06.185Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="自定义类实现枚举"><a href="#自定义类实现枚举" class="headerlink" title="自定义类实现枚举"></a>自定义类实现枚举</h2><p>1.不需要提供set方法，因为枚举对象值通常为只读<br>2.构造器私有化<br>3.本类内部创建对象<br>4.对外暴露对象。对枚举对象&#x2F;属性使用final + static 共同修饰，实现底层优化。<br>5.枚举对象名通常使用全部大写，常量的命名规范。<br>6.枚举对象根据需要，也可以有多个属性</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">package com.hspedu.enum_;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> * @author kss</span><br><span class="line"> * @version 1.0</span><br><span class="line"> */</span><br><span class="line">public class Enumeration1 &#123;</span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">        System.out.println(season.SPRING);</span><br><span class="line">        System.out.println(season.AUTUMN);</span><br><span class="line">        System.out.println(season.SUMMER);</span><br><span class="line">        System.out.println(season.WINTER);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">class season&#123;</span><br><span class="line">    private String name;</span><br><span class="line">    private String desc;</span><br><span class="line">    private season(String name, String desc) &#123;</span><br><span class="line">        this.name = name;</span><br><span class="line">        this.desc = desc;</span><br><span class="line">    &#125;</span><br><span class="line">    public String getName() &#123;</span><br><span class="line">        return name;</span><br><span class="line">    &#125;</span><br><span class="line">    public String getDesc() &#123;</span><br><span class="line">        return desc;</span><br><span class="line">    &#125;</span><br><span class="line">    public final static season SPRING = new season(&quot;spring&quot;,&quot;warm&quot;);</span><br><span class="line">    public final static season SUMMER = new season(&quot;summer&quot;,&quot;hot&quot;);</span><br><span class="line">    public final static season AUTUMN = new season(&quot;autumn&quot;,&quot;fun&quot;);</span><br><span class="line">    public final static season WINTER = new season(&quot;winter&quot;,&quot;cool&quot;);</span><br><span class="line"></span><br><span class="line">    @Override</span><br><span class="line">    public String toString() &#123;</span><br><span class="line">        return &quot;season&#123;&quot; +</span><br><span class="line">                &quot;name=&#x27;&quot; + name + &#x27;\&#x27;&#x27; +</span><br><span class="line">                &quot;, desc=&#x27;&quot; + desc + &#x27;\&#x27;&#x27; +</span><br><span class="line">                &#x27;&#125;&#x27;;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">--------------------------------------------------</span><br><span class="line">D:\jdk8\jre\lib\resources.jar;D:\jdk8\jre\lib\rt.jar;D:\idea_java_project\chapter11\out\production\chapter11 com.hspedu.enum_.Enumeration1</span><br><span class="line">season&#123;name=&#x27;spring&#x27;, desc=&#x27;warm&#x27;&#125;</span><br><span class="line">season&#123;name=&#x27;autumn&#x27;, desc=&#x27;fun&#x27;&#125;</span><br><span class="line">season&#123;name=&#x27;summer&#x27;, desc=&#x27;hot&#x27;&#125;</span><br><span class="line">season&#123;name=&#x27;winter&#x27;, desc=&#x27;cool&#x27;&#125;</span><br></pre></td></tr></table></figure><h2 id="关键字实现枚举"><a href="#关键字实现枚举" class="headerlink" title="关键字实现枚举"></a>关键字实现枚举</h2><p>1.使用关键字enum替代class<br>2.直接使用SPRING(“spring”,”warm”)创建对象，创建对象必须在enum类的最前面，如果有多个常量对象，使用“,”号间隔</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">package com.hspedu.enum_.Enumeration04;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> * @author kss</span><br><span class="line"> * @version 1.0</span><br><span class="line"> */</span><br><span class="line">public class Enumeration04 &#123;</span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">        System.out.println(Season.SPRING);</span><br><span class="line">        System.out.println(Season.SUMMER);</span><br><span class="line">        System.out.println(Season.AUTUMN);</span><br><span class="line">        System.out.println(Season.WINTER);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">enum Season&#123;</span><br><span class="line">    SPRING(&quot;spring&quot;,&quot;warm&quot;),SUMMER(&quot;summer&quot;,&quot;hot&quot;),</span><br><span class="line">    AUTUMN(&quot;autumn&quot;,&quot;fun&quot;),WINTER(&quot;winter&quot;,&quot;cool&quot;);</span><br><span class="line">    private String name;</span><br><span class="line">    private String desc;</span><br><span class="line">    Season(String name, String desc) &#123;</span><br><span class="line">        this.name = name;</span><br><span class="line">        this.desc = desc;</span><br><span class="line">    &#125;</span><br><span class="line">    public String getName() &#123;</span><br><span class="line">        return name;</span><br><span class="line">    &#125;</span><br><span class="line">    public String getDesc() &#123;</span><br><span class="line">        return desc;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    @Override</span><br><span class="line">    public String toString() &#123;</span><br><span class="line">        return &quot;Season&#123;&quot; +</span><br><span class="line">                &quot;name=&#x27;&quot; + name + &#x27;\&#x27;&#x27; +</span><br><span class="line">                &quot;, desc=&#x27;&quot; + desc + &#x27;\&#x27;&#x27; +</span><br><span class="line">                &#x27;&#125;&#x27;;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>notice:<br>当我们使用enum关键字开发一个枚举类时，默认会继承Enum类，而且是一个final类<br><img src="https://s2.loli.net/2022/09/18/GhnCXvkqT2azjLb.png" alt="ps1.png"><br>2.如果使用的是无参构造器，创建常量对象，则可以省略()<br>3.调用枚举对象 不用加() ;enum名.对象名</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">public class exercise01 &#123;</span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">    gender boy = gender.BOY;</span><br><span class="line">    gender boy1 = gender.BOY;</span><br><span class="line">        System.out.println(boy1 == boy);//true</span><br><span class="line">        System.out.println(boy);//BOY</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">enum gender&#123;</span><br><span class="line">    BOY,GIRL;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>4.enum实现的枚举类，仍然是一个类，所以还是可以实现接口的。</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">package com.hspedu.enum_.EnumExercise;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> * @author kss</span><br><span class="line"> * @version 1.0</span><br><span class="line"> */</span><br><span class="line">public class EnumDetail &#123;</span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">        Music.classicMusic.playing();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line">interface   IPlaying&#123;</span><br><span class="line">    public void playing();</span><br><span class="line">&#125;</span><br><span class="line">enum Music implements IPlaying&#123;</span><br><span class="line">    classicMusic;</span><br><span class="line"></span><br><span class="line">    Music() &#123;</span><br><span class="line">    &#125;</span><br><span class="line">    public void playing()&#123;</span><br><span class="line">        System.out.println(&quot;播放音乐。。。。&quot;);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="enum常用方法"><a href="#enum常用方法" class="headerlink" title="enum常用方法"></a>enum常用方法</h2><p>notice:使用关键字enum时，会隐式继承Enum类。</p><ol><li><strong>toString</strong>：Enum 类已经重写过了，返回的是当前对象名,子类可以重写该方法，用于返回对象的属性信息</li><li><strong>name</strong>：返回当前对象名（常量名），子类中不能重写</li><li><strong>ordinal</strong>：返回当前对象的位置号(第几个枚举对象)，默认从 0 开始</li><li><strong>values</strong>：返回当前枚举类中所有的常量</li><li><strong>valueOf</strong>：将字符串转换成枚举对象，要求字符串必须<br>为已有的常量名，否则报异常！</li><li><strong>compareTo</strong>：比较两个枚举常量，比较的就是编号</li></ol><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">package com.hspedu.enum_.EnumerationMethods;</span><br><span class="line"></span><br><span class="line">/**</span><br><span class="line"> * @author kss</span><br><span class="line"> * @version 1.0</span><br><span class="line"> */</span><br><span class="line">public class EnumMethod &#123;</span><br><span class="line">    public static void main(String[] args) &#123;</span><br><span class="line">        Season2 autumn = Season2.autumn;</span><br><span class="line">        System.out.println(autumn.name());</span><br><span class="line">        //ordinal()输出的是该枚举对象的次序/编号</span><br><span class="line">        System.out.println(autumn.ordinal());</span><br><span class="line">//        从反编译可以看出values方法，返回Season2[]</span><br><span class="line">//        含有定义的所有枚举对象</span><br><span class="line">        Season2[] values = Season2.values();</span><br><span class="line">//        增强for循环</span><br><span class="line">        System.out.println(&quot;==========遍历取出枚举对象========&quot;);</span><br><span class="line">        for(Season2 season:values)&#123;</span><br><span class="line">            System.out.println(season);</span><br><span class="line">        &#125;</span><br><span class="line">        System.out.println();</span><br><span class="line"></span><br><span class="line">//      valueof：将字符串转换成枚举对象，要求字符串必须为已有的常量名，否则报异常</span><br><span class="line">//        执行流程</span><br><span class="line">//        1.根据你输入的“autumn”字符串到Season2的枚举对象去查找</span><br><span class="line">//        2.如果找到了，就返回，如果没有找到，就报错</span><br><span class="line">//        3.此处的autumn1与Season2的autumn是同一个对象</span><br><span class="line">        Season2 autumn1 = Season2.valueOf(&quot;autumn&quot;);</span><br><span class="line">        System.out.println(&quot;autumn1=&quot; + autumn1);</span><br><span class="line">        System.out.println();</span><br><span class="line">        System.out.println(autumn == autumn1);</span><br><span class="line"></span><br><span class="line">//        compareTo:比较两个枚举常量，比较的就是编号</span><br><span class="line">//        1.就是把Season2.autumn 枚举对象的编号 和Season2.summer枚举对象的编号进行相减</span><br><span class="line">//        返回一个int值</span><br><span class="line">        System.out.println(Season2.autumn.compareTo(Season2.summer));</span><br><span class="line"></span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;自定义类实现枚举&quot;&gt;&lt;a href=&quot;#自定义类实现枚举&quot; class=&quot;headerlink&quot; title=&quot;自定义类实现枚举&quot;&gt;&lt;/a&gt;自定义类实现枚举&lt;/h2&gt;&lt;p&gt;1.不需要提供set方法，因为枚举对象值通常为只读&lt;br&gt;2.构造器私有化&lt;br&gt;3.本类内</summary>
-      
-    
-    
-    
-    <category term="java" scheme="https://erha1130.github.io/categories/java/"/>
-    
     
   </entry>
   

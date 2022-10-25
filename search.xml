@@ -4,11 +4,86 @@
   
     
     <entry>
-      <title>关于[MySQL]-Job for mysqld.service failed because the control process exited with error code.</title>
-      <link href="/2022/10/21/9a7dc0944fb2/"/>
-      <url>/2022/10/21/9a7dc0944fb2/</url>
+      <title>在ubuntu下安装MySQL</title>
+      <link href="/2022/10/25/aa7c11163ca4/"/>
+      <url>/2022/10/25/aa7c11163ca4/</url>
       
-        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/qq_40898875/article/details/113174200?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166633661916782412523801%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=166633661916782412523801&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-113174200-null-null.142^v59^opensearch_v2,201^v3^control_2&amp;utm_term=Job%20for%20mysqld.service%20failed%20because%20the%20control%20process%20exited%20with%20error%20code.%20See%20systemctl%20status%20mysqld.service%20and%20journalctl%20-xe%20for%20details.&amp;spm=1018.2226.3001.4187</a></p><p><a href="https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142%5Ev59%5Eopensearch_v2,201%5Ev3%5Econtrol_2&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/withwindluo/article/details/118557653?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vi%20/etc/my.cnf%E9%87%8C%E9%9D%A2%E6%B2%A1%E4%B8%9C%E8%A5%BF&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-118557653.142^v59^opensearch_v2,201^v3^control_2&amp;spm=1018.2226.3001.4187</a></p>]]></content>
+        <content type="html"><![CDATA[<p><a href="%5B(110%E6%9D%A1%E6%B6%88%E6%81%AF">csdn链接</a> Ubuntu如何安装Mysql_shallowdream218的博客-CSDN博客_ubuntu系统安装mysql](<a href="https://blog.csdn.net/weixin_44430893/article/details/119296615?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=%E4%B9%8C%E7%8F%AD%E5%9B%BE%E5%AE%89%E8%A3%85mysql&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-119296615.nonecase&amp;spm=1018.2226.3001.4187">https://blog.csdn.net/weixin_44430893/article/details/119296615?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=乌班图安装mysql&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-119296615.nonecase&amp;spm=1018.2226.3001.4187</a>))</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> course </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> course </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于ssh连接云服务器超时的解决</title>
+      <link href="/2022/10/25/62f5663436f7/"/>
+      <url>/2022/10/25/62f5663436f7/</url>
+      
+        <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">C:\Users\HP&gt;ssh root@erhass.asia</span><br><span class="line">ssh_dispatch_run_fatal: Connection to 8.210.148.95 port 22: Connection timed out</span><br></pre></td></tr></table></figure><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li><strong>重置系统密码</strong></li><li><strong>关闭内网ip的ssh连接</strong></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> errors </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> errors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于ssh连接云服务器超时的解决</title>
+      <link href="/2022/10/25/8dbdd136d417/"/>
+      <url>/2022/10/25/8dbdd136d417/</url>
+      
+        <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">C:\Users\HP&gt;ssh root@erhass.asia</span><br><span class="line">ssh_dispatch_run_fatal: Connection to 8.210.148.95 port 22: Connection timed out</span><br></pre></td></tr></table></figure><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li><strong>重置系统密码</strong></li><li><strong>关闭内网ip的ssh连接</strong></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> errors </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> errors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于在centos系统下开启MySQL服务时的报错解决</title>
+      <link href="/2022/10/21/457304120b1f/"/>
+      <url>/2022/10/21/457304120b1f/</url>
+      
+        <content type="html"><![CDATA[<h2 id="报错"><a href="#报错" class="headerlink" title="报错"></a>报错</h2><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">[root@iZj6c1drl65inbvxsn0vj5Z /]# systemctl start mysqld</span><br><span class="line">Job for mysqld.service failed because the control process exited with error code.</span><br><span class="line">See &quot;systemctl status mysqld.service&quot; and &quot;journalctl -xe&quot; for details.</span><br></pre></td></tr></table></figure><h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><ol><li><strong>先去&#x2F;etc&#x2F;my.cnf文件中找到你的mysql目录</strong></li></ol><p><strong>发现没有配置文件，里面只有一个路径</strong></p><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> /]<span class="comment"># cat /etc/my.cnf</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># This group is read both both by the client and the server</span></span><br><span class="line"><span class="comment"># use it for options that affect everything</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line">[<span class="type">client</span>-<span class="type">server</span>]</span><br><span class="line"></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># include all files from the config directory</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line">!includedir /etc/my.cnf.d</span><br></pre></td></tr></table></figure><p>**其实配置文件就在这个路径下 **<br>2. <strong>转到这个路径下</strong></p><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">etc</span>]<span class="comment"># cd my.cnf.d</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">my.cnf.d</span>]<span class="comment"># ls</span></span><br><span class="line">client.cnf  mysql<span class="literal">-default-authentication-plugin</span>.cnf  mysql<span class="literal">-server</span>.cnf</span><br></pre></td></tr></table></figure><p>**发现有三个配置文件 **<br>3. <strong>打开mysql-server.cnf配置文件</strong></p><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">my.cnf.d</span>]<span class="comment"># cat mysql-server.cnf</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># This group are read by MySQL server.</span></span><br><span class="line"><span class="comment"># Use it for options that only the server (but not clients) should see</span></span><br><span class="line"><span class="comment">#</span></span><br><span class="line"><span class="comment"># For advice on how to change settings please see</span></span><br><span class="line"><span class="comment"># http://dev.mysql.com/doc/refman/en/server-configuration-defaults.html</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Settings user and group are ignored when systemd is used.</span></span><br><span class="line"><span class="comment"># If you need to run mysqld under a different user or group,</span></span><br><span class="line"><span class="comment"># customize your systemd unit file for mysqld according to the</span></span><br><span class="line"><span class="comment"># instructions in http://fedoraproject.org/wiki/Systemd</span></span><br><span class="line"></span><br><span class="line">[<span class="type">mysqld</span>]</span><br><span class="line">datadir=/var/lib/mysql  <span class="comment">#mysql的目录</span></span><br><span class="line">socket=/var/lib/mysql/mysql.sock</span><br><span class="line">log<span class="literal">-error</span>=/var/log/mysql/mysqld.log</span><br><span class="line">pid<span class="operator">-file</span>=/run/mysqld/mysqld.pid</span><br></pre></td></tr></table></figure><p><strong>在文件中找到mysql的目录</strong></p><ol start="4"><li><strong>进入&#x2F;var&#x2F;lib&#x2F;目录，给mysql整个777权限</strong>  <figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">my.cnf.d</span>]<span class="comment"># cd /var/lib/</span></span><br><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">lib</span>]<span class="comment"># chmod 777 mysql</span></span><br></pre></td></tr></table></figure></li><li><strong>删掉&#x2F;var&#x2F;lib&#x2F;mysql&#x2F;目录下所有内容</strong></li></ol><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">lib</span>]<span class="comment"># rm -rf /var/lib/mysql/*</span></span><br></pre></td></tr></table></figure><ol start="6"><li><strong>启动mysql</strong><figure class="highlight powershell"><table><tr><td class="code"><pre><span class="line">[<span class="type">root</span>@<span class="type">iZj6c1drl65inbvxsn0vj5Z</span> <span class="type">lib</span>]<span class="comment"># systemctl status mysqld</span></span><br><span class="line">● mysqld.service - MySQL <span class="number">8.0</span> database server</span><br><span class="line">   Loaded: loaded (/usr/lib/systemd/system/mysqld.service; disabled; vendor preset: disabled)</span><br><span class="line">   Active: active (running) since Tue <span class="number">2022</span><span class="literal">-10-25</span> <span class="number">15</span>:<span class="number">22</span>:<span class="number">02</span> CST; <span class="number">14</span>s ago</span><br><span class="line">  <span class="keyword">Process</span>: <span class="number">63886</span> ExecStopPost=/usr/libexec/mysql<span class="literal">-wait-stop</span> (code=exited, status=<span class="number">0</span>/SUCCESS)</span><br><span class="line">  <span class="keyword">Process</span>: <span class="number">64082</span> ExecStartPost=/usr/libexec/mysql<span class="literal">-check-upgrade</span> (code=exited, status=<span class="number">0</span>/SUCCESS)</span><br><span class="line">  <span class="keyword">Process</span>: <span class="number">63957</span> ExecStartPre=/usr/libexec/mysql<span class="literal">-prepare-db-dir</span> mysqld.service (code=exited, status=<span class="number">0</span>/SU&gt;  <span class="keyword">Process</span>: <span class="number">63933</span> ExecStartPre=/usr/libexec/mysql<span class="literal">-check-socket</span> (code=exited, status=<span class="number">0</span>/SUCCESS)</span><br><span class="line"> Main PID: <span class="number">64038</span> (mysqld)</span><br><span class="line">   Status: <span class="string">&quot;Server is operational&quot;</span></span><br><span class="line">    Tasks: <span class="number">38</span> (limit: <span class="number">5036</span>)</span><br><span class="line">   Memory: <span class="number">405.1</span>M</span><br><span class="line">   CGroup: /system.slice/mysqld.service</span><br><span class="line">           └─<span class="number">64038</span> /usr/libexec/mysqld <span class="literal">--basedir</span>=/usr</span><br></pre></td></tr></table></figure></li></ol>]]></content>
       
       
       <categories>
