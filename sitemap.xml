@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://erha1130.github.io/Music/index.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://erha1130.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://erha1130.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://erha1130.github.io/friends-chain/index.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://erha1130.github.io/2022/09/08/61e52643dc3b/</loc>
     
     <lastmod>2022-10-25</lastmod>
@@ -290,16 +326,7 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/Movie/index.html</loc>
-    
-    <lastmod>2022-09-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://erha1130.github.io/photos/index.html</loc>
+    <loc>https://erha1130.github.io/movies/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
     
@@ -326,15 +353,6 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/Music/index.html</loc>
-    
-    <lastmod>2022-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://erha1130.github.io/manifest.json</loc>
     
     <lastmod>2022-09-10</lastmod>
@@ -346,7 +364,7 @@
 
   <url>
     <loc>https://erha1130.github.io/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -354,49 +372,49 @@
   
   <url>
     <loc>https://erha1130.github.io/tags/linux/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/tags/MySQL/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/tags/competition/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/tags/errors/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/tags/java/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/tags/test/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/tags/course/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -405,42 +423,42 @@
   
   <url>
     <loc>https://erha1130.github.io/categories/linux/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/categories/MySQL/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/categories/competition/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/categories/errors/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/categories/java/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://erha1130.github.io/categories/course/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
