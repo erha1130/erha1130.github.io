@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://erha1130.github.io/diary/index.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://erha1130.github.io/2022/10/15/5de164d4d98e/</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://erha1130.github.io/Music/index.html</loc>
     
     <lastmod>2022-10-26</lastmod>
@@ -120,15 +138,6 @@
   
   <url>
     <loc>https://erha1130.github.io/2022/10/16/cd5c97655687/</loc>
-    
-    <lastmod>2022-10-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://erha1130.github.io/diary/index.html</loc>
     
     <lastmod>2022-10-16</lastmod>
     
@@ -413,6 +422,13 @@
   </url>
   
   <url>
+    <loc>https://erha1130.github.io/tags/diary/</loc>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://erha1130.github.io/tags/course/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,6 +467,13 @@
   
   <url>
     <loc>https://erha1130.github.io/categories/java/</loc>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://erha1130.github.io/categories/diary/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
