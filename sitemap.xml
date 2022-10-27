@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://erha1130.github.io/friends-chain/index.html</loc>
+    
+    <lastmod>2022-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://erha1130.github.io/diary/index.html</loc>
     
     <lastmod>2022-10-26</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://erha1130.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-10-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://erha1130.github.io/friends-chain/index.html</loc>
     
     <lastmod>2022-10-26</lastmod>
     
@@ -347,15 +347,6 @@
     <loc>https://erha1130.github.io/About/index.html</loc>
     
     <lastmod>2022-09-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://erha1130.github.io/Link/index.html</loc>
-    
-    <lastmod>2022-09-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
