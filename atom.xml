@@ -457,6 +457,30 @@
   </entry>
   
   <entry>
+    <title>罗翔语录</title>
+    <link href="https://erha1130.github.io/2022/09/29/b8a8f6073a7c/"/>
+    <id>https://erha1130.github.io/2022/09/29/b8a8f6073a7c/</id>
+    <published>2022-09-29T04:37:04.000Z</published>
+    <updated>2022-10-29T05:43:20.269Z</updated>
+    
+    <content type="html"><![CDATA[<span class="bubble-content">聊一聊aqg</span><span class="bubble-notation"><span class="bubble-item" style="background-color:#1E90FF;">如果爱只是一种感觉，当它遇到挑战，这种感觉就会很快消除。但真正的爱并非一种感觉，更多是一种责任，是自我的牺牲和对彼此的成就。如果爱只是一种感觉，就只是一种自恋、放纵的爱。你爱的只是自己。这个时代不缺完美的人，真正的爱是真诚的，是不单求自己的好。正如无问西东的台词所说，我们缺的是从心里给出的真心、正义、无畏和同情。真正的爱一定是从心里发出的，一定是愿意承担责任的爱，一定是不单求自己的好，也要求对方好的爱。总之真正的爱绝对不是一时的头脑发热，它从来都意味着长久的投入，而在很多时候命运之手会将责任安置在你的肩上，让你在人生的路途中留下厚重的脚印。甩开肩膀的责任你也许会觉得轻松，但这种轻松也许是生命中不可承受之轻，最终会给你带来痛苦。当然，接受命定的责任也许你会觉得很沉重，但这种沉重可能会给你带来真实的快乐。真正的爱一定不是瞬间的感动，而必然是恒久的一种尾声，彼此牺牲，彼此成就，彼此尊重。</span></span>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;span class=&quot;bubble-content&quot;&gt;聊一聊aqg&lt;/span&gt;&lt;span class=&quot;bubble-notation&quot;&gt;&lt;span class=&quot;bubble-item&quot; style=&quot;background-color:#1E90FF;&quot;&gt;如果爱只是一种感</summary>
+      
+    
+    
+    
+    <category term="diary" scheme="https://erha1130.github.io/categories/diary/"/>
+    
+    
+    <category term="diary" scheme="https://erha1130.github.io/tags/diary/"/>
+    
+  </entry>
+  
+  <entry>
     <title>注解</title>
     <link href="https://erha1130.github.io/2022/09/28/ea34f05c650d/"/>
     <id>https://erha1130.github.io/2022/09/28/ea34f05c650d/</id>
@@ -478,31 +502,6 @@
     
     
     <category term="java" scheme="https://erha1130.github.io/tags/java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人力资源管理竞赛</title>
-    <link href="https://erha1130.github.io/2022/09/24/52a3bc19553b/"/>
-    <id>https://erha1130.github.io/2022/09/24/52a3bc19553b/</id>
-    <published>2022-09-24T04:15:52.000Z</published>
-    <updated>2022-09-27T11:47:58.924Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="财务状态"><a href="#财务状态" class="headerlink" title="财务状态"></a>财务状态</h2><p>初始经费2500k</p><h2 id="人力资源状态"><a href="#人力资源状态" class="headerlink" title="人力资源状态"></a>人力资源状态</h2><p>管理人员：总经理、人力资源经理、招聘甄选主管、培训开发主管、绩效考<br>评主管、薪酬福利主管各一名<br>初始价值：<br>管理人员 | 总经理 | 人力资源经理 | 招聘甄选主管 | 培训开发主管 | 绩效考评主管 | 薪酬福利主管<br>—-|—-|—-|—-|—-|—-|—-<br>初始价值 | 10 | 7 | 4 | 4 | 4 | 4 |</p><p>研发人员、生产人员和销售人员三类员工，每类员工<br>设定了 A、B、C、D 四个等级<br>员工 |A 级 |B 级 |C 级 |D 级<br>—-|—-|—-|—-|—-<br>初始价值 |10 |6 |3 |1  </p><p>注：<strong>员工的个人价值可通过员工的能力提升而增加，不同部门的员工通过技能提升培训<br>增加的能力是不同的，研发人员每增加能力 3（生产人员每增加能力 1/销售人员每增加能力<br>6），则员工价值增加 1。</strong><br>举例：如 B 级研发人员的初始价值为 6，对应的的初始能力为 18，当其通过技能提<br>升培训，P1 的能力提升为 21 时，该员工价值+1。以此类推，当该员工 P1 的能力提升到 30<br>时，员工升级。</p><h2 id="员工能力"><a href="#员工能力" class="headerlink" title="员工能力"></a>员工能力</h2><ul><li>研发人员的能力指研发人员研发产品和技术保障的能力</li><li>生产人员的能力指生产人员可生产产品的数量</li><li>销售人员的能力指销售人员可销售产品的数量</li></ul><h2 id="基本工资区间设置规则"><a href="#基本工资区间设置规则" class="headerlink" title="基本工资区间设置规则"></a>基本工资区间设置规则</h2><ol><li>各类员工基本工资下限不低于最低基本工资 3K；</li><li>各等级员工基本工资区间的上限和下限差额不得超过 6K；</li><li>高一级员工基本工资区间的上限不得高于低一级员工的基本工资区间的上限的 2 倍；</li><li>低一级员工的基本工资区间的上限不得高于高一级员工的基本工资区间的下限。</li><li>下一年工作分析制定的基本工资区间设置的数值不得低于上一年设置的数值。  </li></ol><p>举例：<br>员工等级\员工类型|A 级 |B 级 |C 级 |D 级<br>—-|—-|—-|—-|—-<br>研发人员 |22K-28K |18K-22K |11K-17K |5K-11K<br>生产人员 |64K-70K |42K-48K |18K-24K |6K-12K<br>销售人员 |15K-21K |11K-15K |6K-10K |3K-5K<br>第一年第一期：<br>员工等级\员工类型|A 级 |B 级 |C 级 |D 级<br>—-|—-|—-|—-|—-<br>研发人员 |22K-28K |18K-22K |11K-17K |5K-11K<br>生产人员 |18K-20K |11K-16K |6K-10K |3K-6K<br>销售人员 |15K-21K |11K-15K |6K-10K |3K-5K</p><div class="table-container"><table><thead><tr><th>员工等级\员工类型</th><th>A 级</th><th>B 级</th><th>C 级</th><th>D 级</th></tr></thead><tbody><tr><td>研发人员</td><td>22K-28K</td><td>18K-22K</td><td>11K-17K</td><td>5K-11K</td></tr><tr><td>生产人员</td><td>18K-20K</td><td>11K-16K</td><td>6K-10K</td><td>3K-6K</td></tr><tr><td>销售人员</td><td>15K-21K</td><td>11K-15K</td><td>6K-10K</td><td>3K-5K</td></tr></tbody></table></div><p><img src="https://s2.loli.net/2022/09/25/efDI9TC1iZuMVsA.png" alt="competition7.png"></p><h2 id="招聘渠道"><a href="#招聘渠道" class="headerlink" title="招聘渠道"></a>招聘渠道</h2><div class="table-container"><table><thead><tr><th>招聘渠道种类</th><th>每一人员等级招聘费用</th></tr></thead><tbody><tr><td>校园招聘</td><td>3K/次</td></tr><tr><td>人才交流中心招聘</td><td>4K/次</td></tr><tr><td>Internet 平台招聘</td><td>4K/次</td></tr><tr><td>传统媒体招聘</td><td>5K/次</td></tr><tr><td>猎头招聘</td><td>3K/人招聘成功后再支付该等级员工二周期的基本工资</td></tr><tr><td>再就业</td><td>6K/次  </td></tr></tbody></table></div><p>注：①再就业招聘渠道：从第二年开始出现，是流失人员未被市场淘汰而回流入的招聘<br>渠道，只在流失后下一年度的第一周期招聘时出现。<br>②以上同一招聘渠道各等级员工的招聘费用按实际招聘情况缴纳，同一招聘渠道同一类<br>型同一等级员工招聘不限人数。（猎头渠道除外）<br>举例：如在校园招聘渠道招聘 1 个 B 级研发人员及 1 个 C 级研发人员需缴纳 6K,在校园<br>招聘渠道招聘 2 个 B 级研发人员只需缴纳 3K。</p><h2 id="多个公司竞聘同一员工规则"><a href="#多个公司竞聘同一员工规则" class="headerlink" title="多个公司竞聘同一员工规则"></a>多个公司竞聘同一员工规则</h2><ol><li>根据总工资进行排名，排名第一的公司优先招聘；如该公司选择放弃，则排名第二<br>的公司进行招聘，以此类推；其中总工资=期基本工资+25%人才引进津贴+满额绩效工资（期）<br>+岗位津贴+交通/通讯/住房/高温补贴+工龄工资（以工龄 1 年的期工龄工资计算）；</li><li>如参与竞聘公司设定总工资相同，则比较基本工资，排名靠前的优先招聘；</li><li>如参与竞聘公司设定的基本工资相同，则比较参与竞聘公司上年度经营排名，排名<br>靠前的优先招聘（第一年度比较招聘申请表提交时间，先提交的公司优先招聘）。</li></ol><h2 id="生产与研发"><a href="#生产与研发" class="headerlink" title="生产与研发"></a>生产与研发</h2><p>公司各级生产人员针对不同类型产品，拥有不同的初始能力，具体各级生产人员初始产<br>能和产品成本如下表所示：<br>员工\产品|P1|P2|P3|P4<br>—-|—-|—-|—-|—-<br>A 级| 10| 9| 6| 4<br>B 级| 6| 5| 2| 0<br>C 级| 3| 2| 0| 0<br>D 级| 1| 0| 0| 0<br>单批产品成本| 6K| 12K| 20K| 35K</p><p>各级研发人员的能力值和其他研发相关数据<br>产品|A|B|C|D|每期研发所需费用（K）|每期研发所需能力|单位产品需技术保障的能力|研发周期（期）<br>—-|—-|—-|—-|—-|—-|—-|—-|—-<br>P1| 30| 18| 9| 3| 10| 5| 1| 1<br>P2| 27| 15| 6| 0| 10| 8| 2| 3<br>P3| 18| 6| 0| 0| 30| 10| 3| 5<br>P4| 12| 0| 0| 0| 30| 12| 4| 7<br>对于P1产品每生产1批就需要提供1个技术保障能力</p><h2 id="产品销售"><a href="#产品销售" class="headerlink" title="产品销售"></a>产品销售</h2><div class="table-container"><table><thead><tr><th>员工\产品</th><th>P1</th><th>P2</th><th>P3</th><th>P4</th></tr></thead><tbody><tr><td>A 级</td><td>60</td><td>54</td><td>36</td><td>24 </td></tr><tr><td>B 级</td><td>36</td><td>30</td><td>12</td><td>0 </td></tr><tr><td>C 级</td><td>18</td><td>12</td><td>0</td><td>0 </td></tr><tr><td>D 级</td><td>6</td><td>0</td><td>0</td><td>0</td></tr></tbody></table></div><p>每年第四期出售产品，产品可以囤积到下一年度（囤货产品会产生 1K/年·批的管<br>理费用）</p><h2 id="员工入职"><a href="#员工入职" class="headerlink" title="员工入职"></a>员工入职</h2><p>平台：直接跳过<br>教师端：第六年第一期</p><h2 id="培训"><a href="#培训" class="headerlink" title="培训"></a>培训</h2><p>在岗培训: 2K/期 连续4期<br>脱产培训: 2K/期 连续2期</p><h2 id="经费区分"><a href="#经费区分" class="headerlink" title="经费区分"></a>经费区分</h2><p><img src="https://s2.loli.net/2022/09/25/wUIetqG4YREcDfM.png" alt="competition6.png"></p><h2 id="其他人力资源支出"><a href="#其他人力资源支出" class="headerlink" title="其他人力资源支出"></a>其他人力资源支出</h2><p><img src="https://s2.loli.net/2022/09/25/Yd3FNpseA5VxmX2.png" alt="competition5.png"></p><h2 id="销售流程"><a href="#销售流程" class="headerlink" title="销售流程"></a>销售流程</h2><p><img src="https://s2.loli.net/2022/09/25/x1B2gHmw9N8DKd7.png" alt="competition4.png"></p><h2 id="绩效"><a href="#绩效" class="headerlink" title="绩效"></a>绩效</h2><p>第一年降低 低于50分 -1  (管理人员工资下降)<br>第二年降低 低于50分 -1<br>第三年上升  +1<br>第四年上升  +1<br>第五年上升  +1  </p><h2 id="管理人员年终奖"><a href="#管理人员年终奖" class="headerlink" title="管理人员年终奖"></a>管理人员年终奖</h2><p><img src="https://s2.loli.net/2022/09/25/N2sXPuHLEBKSMO3.png" alt="competition3.png"></p><h2 id="评价标准"><a href="#评价标准" class="headerlink" title="评价标准"></a>评价标准</h2><p>总评价计算公式：<br>M = 每年总员工价值 <em> （1 + 净利润/工资总额 </em>100%）<br>提高总评：</p><ul><li>净利润上升  (卖得多)</li><li>工资总额下降  (工资尽可能低)</li><li>员工价值上升  （招聘高等级员工、培训）  </li></ul><hr><p><img src="https://s2.loli.net/2022/09/24/lf3Aju9GVc2zrQp.png" alt="competition1.png">  </p><hr><h2 id="操作流程"><a href="#操作流程" class="headerlink" title="操作流程"></a>操作流程</h2><p><img src="https://s2.loli.net/2022/09/24/S5ewnQXhdWNfBEv.png" alt="competition2.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;财务状态&quot;&gt;&lt;a href=&quot;#财务状态&quot; class=&quot;headerlink&quot; title=&quot;财务状态&quot;&gt;&lt;/a&gt;财务状态&lt;/h2&gt;&lt;p&gt;初始经费2500k&lt;/p&gt;
-&lt;h2 id=&quot;人力资源状态&quot;&gt;&lt;a href=&quot;#人力资源状态&quot; class=&quot;headerl</summary>
-      
-    
-    
-    
-    <category term="competition" scheme="https://erha1130.github.io/categories/competition/"/>
-    
-    
-    <category term="competition" scheme="https://erha1130.github.io/tags/competition/"/>
     
   </entry>
   
