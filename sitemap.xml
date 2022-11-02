@@ -460,6 +460,13 @@
   </url>
   
   <url>
+    <loc>https://erha1130.github.io/tags/test/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://erha1130.github.io/tags/diary/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -475,13 +482,6 @@
   
   <url>
     <loc>https://erha1130.github.io/tags/cet-4/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://erha1130.github.io/tags/test/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
