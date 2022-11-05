@@ -6,7 +6,7 @@
   <link href="https://erha1130.github.io/atom.xml" rel="self"/>
   
   <link href="https://erha1130.github.io/"/>
-  <updated>2022-10-31T07:30:29.549Z</updated>
+  <updated>2022-11-05T12:54:19.498Z</updated>
   <id>https://erha1130.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>errors-deploy博客到GitHub的报错解决</title>
+    <link href="https://erha1130.github.io/2022/11/05/172971b79a99/"/>
+    <id>https://erha1130.github.io/2022/11/05/172971b79a99/</id>
+    <published>2022-11-05T12:50:32.000Z</published>
+    <updated>2022-11-05T12:54:19.498Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/ydt_lwj/article/details/9628595">https://blog.csdn.net/ydt_lwj/article/details/9628595</a></p><p>打不开.ssh目录时鼠标右击授予权限</p><p><a href="https://blog.csdn.net/u012757419/article/details/105614028">https://blog.csdn.net/u012757419/article/details/105614028</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/ydt_lwj/article/details/9628595&quot;&gt;https://blog.csdn.net/ydt_lwj/article/details/9628595&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;打不开.ssh目</summary>
+      
+    
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/categories/errors/"/>
+    
+    
+    <category term="errors" scheme="https://erha1130.github.io/tags/errors/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -473,30 +498,6 @@
     
     
     <category term="errors" scheme="https://erha1130.github.io/tags/errors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Linux-6-系统管理</title>
-    <link href="https://erha1130.github.io/2022/10/05/583a76241658/"/>
-    <id>https://erha1130.github.io/2022/10/05/583a76241658/</id>
-    <published>2022-10-05T13:58:15.000Z</published>
-    <updated>2022-10-05T16:07:26.525Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="linux中的进程和服务"><a href="#linux中的进程和服务" class="headerlink" title="linux中的进程和服务"></a>linux中的进程和服务</h3><p>计算机中，一个正在执行的程序或命令，被叫做“进程”（process）。<br>启动之后一直存在、常驻内存的进程，一般被称作“服务”（service）。<br>notice:守护进程（英语：daemon，/ˈdiːmən/或/ˈdeɪmən/）[2]是一种在后台执行，而不由用户直接交互控制的电脑程序。此类程序会被以进程的形式初始化。守护进程程序的名称通常以字母d结尾，以指明这个进程实际是守护进程，并与普通的电脑程序区分开来。例如，syslogd就是指管理系统日志的守护进程，sshd是接收传入SSH连接的守护进程。</p><h3 id="service服务管理-centos6版本"><a href="#service服务管理-centos6版本" class="headerlink" title="service服务管理(centos6版本)"></a>service服务管理(centos6版本)</h3><h4 id="1-基本语法"><a href="#1-基本语法" class="headerlink" title="1.基本语法"></a>1.基本语法</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">service 服务名 start | stop | restart | status</span><br></pre></td></tr></table></figure><h4 id="2-经验技巧"><a href="#2-经验技巧" class="headerlink" title="2.经验技巧"></a>2.经验技巧</h4><p>查看服务的方法：<br><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 转到此路径下</span><br><span class="line">cd /etc/init.d/</span><br><span class="line"># 查看所有服务</span><br><span class="line">ls -al</span><br></pre></td></tr></table></figure><br>高亮的为正在运行的服务<br><img src="https://s2.loli.net/2022/10/05/6slTOGVyYF2Cfxz.png" alt="linux39.png"></p><h4 id="3-案例实操"><a href="#3-案例实操" class="headerlink" title="3.案例实操"></a>3.案例实操</h4><ol><li>查看网络服务的状态<br>[root@hadoop100 桌面]#service network status </li><li>停止网络服务<br>[root@hadoop100 桌面]#service network stop</li><li>启动网络服务<br>[root@hadoop100 桌面]#service network start</li><li>重启网络服务<br>[root@hadoop100 桌面]#service network restart</li></ol><h3 id="chkconfig设置后台服务的自启配置"><a href="#chkconfig设置后台服务的自启配置" class="headerlink" title="chkconfig设置后台服务的自启配置"></a>chkconfig设置后台服务的自启配置</h3><h4 id="1-基本语法-1"><a href="#1-基本语法-1" class="headerlink" title="1.基本语法"></a>1.基本语法</h4><p>chkconfig （功能描述：查看所有服务器自启配置）<br>chkconfig 服务名 off （功能描述：关掉指定服务的自动启动）<br>chkconfig 服务名 on （功能描述：开启指定服务的自动启动）<br>chkconfig 服务名 —list （功能描述：查看服务开机启动状态）  </p><h4 id="2-开启-关闭network服务指定级别的自动启动"><a href="#2-开启-关闭network服务指定级别的自动启动" class="headerlink" title="2.开启/关闭network服务指定级别的自动启动"></a>2.开启/关闭network服务指定级别的自动启动</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[root@hadoop100 桌面]#chkconfig --level 指定级别 network on</span><br><span class="line">[root@hadoop100 桌面]#chkconfig --level 指定级别 network off</span><br></pre></td></tr></table></figure><h3 id="systemctl-centos7版本"><a href="#systemctl-centos7版本" class="headerlink" title="systemctl(centos7版本)"></a>systemctl(centos7版本)</h3><h4 id="1-基本语法-2"><a href="#1-基本语法-2" class="headerlink" title="1.基本语法"></a>1.基本语法</h4><p>systemctl    start | stop | restart | status    服务名</p><h4 id="2-经验技巧-1"><a href="#2-经验技巧-1" class="headerlink" title="2.经验技巧"></a>2.经验技巧</h4><p>查看服务的方法：/usr/lib/systemd/system<br><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[root@hadoop100 system]# pwd</span><br><span class="line">/usr/lib/systemd/system</span><br><span class="line">[root@hadoop100 init.d]# ls -al</span><br><span class="line">-rw-r--r--. 1 root root 275 4 月 27 2018 abrt-ccpp.service</span><br><span class="line">......</span><br></pre></td></tr></table></figure></p><h4 id="3-案例实操-1"><a href="#3-案例实操-1" class="headerlink" title="3.案例实操"></a>3.案例实操</h4><p>（1）查看防火墙服务的状态<br>[root@hadoop100 桌面]# systemctl status firewalld<br>（2）停止防火墙服务<br>[root@hadoop100 桌面]# systemctl stop firewalld<br>（3）启动防火墙服务<br>[root@hadoop100 桌面]# systemctl start firewalld<br>（4）重启防火墙服务<br>[root@hadoop100 桌面]# systemctl restart firewalld  </p><h3 id="systemctl-设置后台服务的自启配置"><a href="#systemctl-设置后台服务的自启配置" class="headerlink" title="systemctl 设置后台服务的自启配置"></a>systemctl 设置后台服务的自启配置</h3><h4 id="1-基本语法-3"><a href="#1-基本语法-3" class="headerlink" title="1.基本语法"></a>1.基本语法</h4><p>systemctl list-unit-files （功能描述：查看服务开机启动状态）<br>systemctl disable service_name （功能描述：关掉指定服务的自动启动）<br>systemctl enable service_name （功能描述：开启指定服务的自动启动）  </p><h4 id="2-案例实操"><a href="#2-案例实操" class="headerlink" title="2.案例实操"></a>2.案例实操</h4><p>（1）开启/关闭 iptables(防火墙)服务的自动启动<br><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[root@hadoop100 桌面]# systemctl enable firewalld.service</span><br><span class="line">[root@hadoop100 桌面]# systemctl disable </span><br></pre></td></tr></table></figure></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;linux中的进程和服务&quot;&gt;&lt;a href=&quot;#linux中的进程和服务&quot; class=&quot;headerlink&quot; title=&quot;linux中的进程和服务&quot;&gt;&lt;/a&gt;linux中的进程和服务&lt;/h3&gt;&lt;p&gt;计算机中，一个正在执行的程序或命令，被叫做“进程”（proc</summary>
-      
-    
-    
-    
-    <category term="linux" scheme="https://erha1130.github.io/categories/linux/"/>
-    
-    
-    <category term="linux" scheme="https://erha1130.github.io/tags/linux/"/>
     
   </entry>
   
