@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://erha1130.github.io/README.html</loc>
+    
+    <lastmod>2022-11-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://erha1130.github.io/friends-chain/index.html</loc>
     
     <lastmod>2022-11-05</lastmod>
@@ -483,14 +492,14 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/tags/course/</loc>
+    <loc>https://erha1130.github.io/tags/cet-4/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/tags/cet-4/</loc>
+    <loc>https://erha1130.github.io/tags/course/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -541,14 +550,14 @@
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/categories/course/</loc>
+    <loc>https://erha1130.github.io/categories/cet-4/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://erha1130.github.io/categories/cet-4/</loc>
+    <loc>https://erha1130.github.io/categories/course/</loc>
     <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
